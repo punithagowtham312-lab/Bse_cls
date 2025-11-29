@@ -8,6 +8,8 @@ import com.app.pageexe.PageExe;
 
 public class Execution   {
 public static void main(String[] args) {
+	
+	//Git command 
 	Base base = new Base();
 	base.launchBrowser("chrome");
     Base.openUrl("https://adactinhotelapp.com/");
