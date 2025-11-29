@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	//Git command 
 	//Git 2nd command 
 	//Git tester1 changes 
+	//Git changes move via eclipse 
 	Base base = new Base();
 	base.launchBrowser("chrome");
     Base.openUrl("https://adactinhotelapp.com/");
